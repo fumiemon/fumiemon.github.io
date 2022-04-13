@@ -8,7 +8,7 @@
 	<body>
 		<div class = "header">
 			<a href = "index"><h1>のんびりエンジニア</h1></a>
-			<div class = "sub-title"><a href="">自己紹介</a></div>
+			<div class = "sub-title">自己紹介</a></div>
 		</div>
 		<div class = "body">
 			<p>名前
@@ -19,7 +19,7 @@
 			<p>年齢
 				24歳
 			</p>
-			<p>最終学歴
+			<p>卒業校
 				東京電子専門学校
 			</p>
 			<p>経験現場

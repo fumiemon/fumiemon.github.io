@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+/* 共通 */
+html {
+    text-align: center;
+    font-family: ヒラギノ丸ゴ ProN ;
+}
+
+.header a {
+    text-decoration: none;  /* リンクの下線を除去 */ 
+}
+
+.sub-title {
+    display: inline-block;
+    background-color: #A7F1FF;    /* 背景色指定 */
+    padding:  15px;             /* 余白指定 */
+    width: 200px;              /* 高さ指定 */
+    font-size: 25px;
+}
+
+.body table { 
+    display: inline-block;
+}

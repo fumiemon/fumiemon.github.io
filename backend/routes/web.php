@@ -24,3 +24,11 @@ Route::get('/index', function () {
 Route::get('/profile', function () {
     return view('profile');
 });
+
+Route::get('/portfolio', function () {
+    return view('portfolio');
+});
+
+Route::get('/faq', function () {
+    return view('faq');
+});

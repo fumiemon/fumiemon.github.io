@@ -9,8 +9,8 @@
 		<div class = "header">
 			<h1>のんびりエンジニア</h1>
 			<div class = "menu"><a href="profile">自己紹介</a></div>
-			<div class = "menu"><a href="">ポートフォリオ</a></div>
-			<div class = "menu"><a href="">お問い合わせ</a></div>
+			<div class = "menu"><a href="portfolio">ポートフォリオ</a></div>
+			<div class = "menu"><a href="faq">お問い合わせ</a></div>
 		</div>
 		<div class = "body">
 			<p align = "center">このサイトはガジェット好きエンジニアのポートフォリオサイトです。<br></p>
